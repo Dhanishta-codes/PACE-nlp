@@ -1,0 +1,60 @@
+than a third of climate models in the Fourth (CALIPSO) and the Aerosol Polarimeter Sensor
+Intergovernmental Panel on Climate Change (IPCC) (APS), provide detailed insights into aerosol
+accounting for aerosol effects, mainly focusing on properties, including vertical profiles and particle
+sulphates. types.
+While satellites offer a global perspective on aerosol
+MEASURING AEROSOLS
+impacts, ground-based sensors are essential for
+validating satellite data. NASA's Aerosols Robotic
+About 40 years ago, scientists recognized that
+Network (AERONET), which includes over 200 sun
+aerosols could influence climate, but the
+photometers, measures aerosol optical depth
+measurements necessary to quantify their effects
+worldwide. In situ instruments aboard aircraft and
+were insufficient. Fortunately, advancements have
+ground stations provide accurate measurements of
+been made. Today, scientists utilize a variety of
+specific aerosol properties, albeit less frequently.
+satellite, aircraft, and ground-based instruments to
+monitor aerosols, with radiometers being among the
+most vital tools.
+They measure aerosol optical depth (AOD), which
+indicates the amount of light that aerosols scatter and
+absorb. An AOD of less than 0.05 signifies a clear
+sky, while a value of 1 indicates hazy conditions, and
+values above 2 or 3 represent very high aerosol
+concentrations.
+Land-based and airborne instruments complement
+NASA’s satellites. AERONET is a global network of sun
+photometers that measures aerosols from the ground,
+such as this station in the Canadian Arctic (top).
+Despite these advancements, significant questions
+remain regarding aerosols' competing impacts.
+Measuring particles within clouds is particularly
+challenging, as different aerosol types can form
+complex hybrids. Additionally, variations in
+This map shows the average distribution of aerosols humidity and temperature can significantly alter
+from June 2000 through May 2010, measured by the aerosol behaviour and interactions with cloud
+Multi-angle Imaging Spectroradiometer (MISR). Red droplets.
+indicates high concentrations of aerosols, beige
+To address these uncertainties, it is crucial to
+indicates low concentrations.
+enhance the precision of aerosol measurements and
+They also measure single scattering albedo (SSA), properties. Improved data collection and
+the fraction of light that is scattered compared to he sophisticated computer modelling are essential for
+fully integrating aerosol effects into climate models,
+total. SSA values ranges from around 0.7 for highly
+absorbing aerosols to 1 for aerosols that only scatter. thereby reducing uncertainties about future climate
+change.
+The Advanced Very High Resolution Radiometer
+(AVHRR) was the first satellite instrument capable of
+monitoring aerosol optical depth from space,
+starting in the late 1970s. Since then, instruments like
+the Multi-angle Imaging Spectroradiometer (MISR)
+and the Moderate Resolution Imaging
+Spectroradiometer (MODIS) have improved
+capabilities, allowing for more accurate assessments
+of aerosols over land and sea.
+Additional instruments, such as the Cloud Aerosol
+Lidar and Infrared Pathfinder Satellite Observer
